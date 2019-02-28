@@ -1,0 +1,19 @@
+{
+  "name": "socket_io_try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GanahaHibiki/socket_io_sample.git"
+  },
+  "author": "GanahaHibiki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GanahaHibiki/socket_io_sample/issues"
+  },
+  "homepage": "https://github.com/GanahaHibiki/socket_io_sample#readme"
+}
